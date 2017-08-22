@@ -1,2 +1,8 @@
 # Ideas
-### how to generate them and what to do with them later on
+### how to generate ideas and what to do with them later on
+
+# Before the class
+
+# Homework
+
+# Resources
