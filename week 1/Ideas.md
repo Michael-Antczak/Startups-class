@@ -14,7 +14,7 @@
 1. What is an idea journal
 1. Example
 
-### Motivation
+### Can I change the world? 
 
 Watch the video [Steve Jobs' Vision of the World](https://www.youtube.com/watch?v=UvEiSa6_EPA)
 
