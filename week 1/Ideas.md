@@ -16,7 +16,7 @@
 
 ### Can I change the world? 
 
-Watch the video [Steve Jobs' Vision of the World](https://www.youtube.com/watch?v=UvEiSa6_EPA)
+Watch the video [Steve Jobs'](https://en.wikipedia.org/wiki/Steve_Jobs) [Vision of the World](https://www.youtube.com/watch?v=UvEiSa6_EPA)
 
 ### Do I just wait for the big idea to come to me? 
 I think that if you just sit and wait for the big idea to come to you, it will never come. You have to help yourself a little bit. When you want to be good at something you practice.    
