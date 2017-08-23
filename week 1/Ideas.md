@@ -1,5 +1,11 @@
+> The most exciting phrase to hear in science, the one that heralds new discoveries, is not "Eureka!" (I found it!) but "That's funny. ... "   
+
+
+
 # Ideas
 ### how to generate ideas and what to do with them later on
+
+
 
 # Before the class
 
@@ -7,6 +13,10 @@
 1. How to come up with ideas
 1. What is an idea journal
 1. Example
+
+### Motivation
+
+Watch the video [Steve Jobs' Vision of the World](https://www.youtube.com/watch?v=UvEiSa6_EPA)
 
 ### Do I just wait for the big idea to come to me? 
 I think that if you just sit and wait for the big idea to come to you, it will never come. You have to help yourself a little bit. When you want to be good at something you practice.    
