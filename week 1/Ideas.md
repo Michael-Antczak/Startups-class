@@ -7,12 +7,18 @@
 
 
 
-# Before the class
+# Before the class  
+1. Ask yourself a question: Why would you want to have a startup? Write it down. After that go to point 2.
+2. Watch [How and Why to Start A Startup - Sam Altman & Dustin Moskovitz](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17) - at least the first 13 minutes. 
 
 # Outline
+1. Why would you want to set up an online business? 
 1. How to come up with ideas
 1. What is an idea journal
 1. Example
+
+### The Why
+What is your motivation? Discuss. 
 
 ### Can I change the world? 
 
@@ -46,4 +52,6 @@ Don't worry too much wheather the idea is good or not at this point. We are tryi
 1. Every day try to come up with one idea
 1. Add the idea to your journal
 1. Once a week go back to your idea journal and go through all of the items. Think about every idea for a minute. Anything that you want to add? Maybe there is a new information available? 
+
 # Resources
+1. [How and Why to Start A Startup - Sam Altman & Dustin Moskovitz](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17) 
