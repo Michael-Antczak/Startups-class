@@ -31,7 +31,7 @@ I think that if you just sit and wait for the big idea to come to you, it will n
 Say you decided that you want to run a marathon. You need to start running a few days a week to **train your muscles** so they can be ready for when the big day comes. The same applies to your brain. You should **train your brain** to come up with ideas every day. 
 
 ### Idea Journal
-A place where we keep all the ideas that come to us, however stupid they may sound. 
+**Ideas are fragile!** We need a place where we can keep all the ideas that come to us, however stupid they may sound initially. 
 
 We care about:
 - having access to it at any given time (online, notebook, anything that works for you)
