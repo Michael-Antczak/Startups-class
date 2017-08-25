@@ -56,4 +56,4 @@ Don't worry too much wheather the idea is good or not at this point. We are tryi
 
 # Resources
 1. [How and Why to Start A Startup - Sam Altman & Dustin Moskovitz](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17) - at least the first 13 minutes.
-1. [How to Get Ideas and How to Measure](https://www.youtube.com/watch?v=zsBjAuexPq4&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17&index=3) - the first 24 minutes and the umbrella story. 
+1. [How to Get Ideas and How to Measure](https://www.youtube.com/watch?v=zsBjAuexPq4&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17&index=3) - the first 27 minutes and the umbrella story. 
