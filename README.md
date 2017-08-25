@@ -1,5 +1,6 @@
-# Tech meets Business  
-### How to turn ideas into online businesses. 
+# Turning Ideas into Online Businesses
+
+The content for a non-compulsory weekly class at the CodeYourFuture. 
 
 # Outline
 1. how to get the ideas and what to do with them?
@@ -12,4 +13,8 @@
 1. deploying and maintaining on AWS Cloud or elsewhere
 
 We will go through practical examples.
+
+# Table of Contents
+1. [Motivation and Ideas](https://github.com/Michael-Antczak/tech-meets-business/blob/master/week%201/Ideas.md)
+1. [Resources](https://github.com/Michael-Antczak/tech-meets-business/blob/master/week%202/Resources.md)
 
