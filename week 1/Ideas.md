@@ -13,6 +13,7 @@
 
 # Outline
 1. Why would you want to set up an online business? 
+1. Am I smart enough? 
 1. How to come up with ideas
 1. What is an idea journal
 1. Example
